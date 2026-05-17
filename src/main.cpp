@@ -16,5 +16,4 @@ int main() {
   std::cout << "--------------------------------\n";
 
   printFreq(analysisTree);
-
 }
